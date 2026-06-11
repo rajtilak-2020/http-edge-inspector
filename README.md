@@ -73,9 +73,3 @@ npm run preview
 ```
 
 ---
-
-## Deployment
-
-EdgeProbe is ready to deploy on **Vercel** with zero configuration. It automatically translates the server-side proxy route into Serverless/Edge functions.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
